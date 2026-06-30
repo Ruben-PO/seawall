@@ -59,7 +59,7 @@ El proyecto sigue una separación clara entre **widgets** (presentación, vive e
  
 ```bash
 # Clona el repositorio
-git clone https://github.com/TU_USUARIO/seawall.git
+git clone https://github.com/Ruben-PO/seawall.git
 cd seawall
  
 # Crea y activa un entorno virtual
