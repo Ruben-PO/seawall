@@ -10,9 +10,11 @@ Construido en Python con [Textual](https://github.com/Textualize/textual), conec
  
 ---
  
-## 📸 Capturas
- 
-> _(Añade aquí tus propias capturas de pantalla de la aplicación corriendo en tu terminal — recomendado: una vista general y una mostrando una alerta de seguridad activa)_
+### 📸 Capturas
+
+![SeaWall en funcionamiento, mostrando tráfico marítimo real en Galicia, métricas de hardware y alertas de seguridad activas](docs/screenshots/panel-principal.png)
+
+*Panel completo con datos AIS reales de la costa gallega, monitoreo de hardware en vivo, y dos alertas de seguridad activas (escaneo de puertos simulado y salto GPS simulado).*
  
 ---
  
