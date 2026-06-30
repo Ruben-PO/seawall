@@ -1,0 +1,18 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Variables de entorno (contiene la API key — NUNCA subir)
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de IDEs
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
