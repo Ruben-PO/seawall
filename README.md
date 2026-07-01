@@ -42,7 +42,7 @@ seawall/
 │       └── seguridad.py         # Lógica pura: Haversine, detector de escaneo
 ├── tests/                       # Pruebas manuales y automatizadas
 ├── requirements.txt
-└── .env                         # API key (no versionado)
+└── .gitignore
 ```
  
 El proyecto sigue una separación clara entre **widgets** (presentación, vive en `src/widgets/`) y **módulos** (lógica de negocio sin dependencias de interfaz, vive en `src/modules/`), lo que permite testear la detección de anomalías de forma aislada sin levantar la TUI completa.
